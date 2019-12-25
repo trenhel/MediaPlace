@@ -1,16 +1,18 @@
 html{
-    font-family: 'Righteous', cursive;
+    font-family: 'Questrial', sans-serif;
+}
+body{
+    margin: 0;  
 }
 a:link, a:visited{
     color: rgb(63, 127, 187)
 }
 a:hover{
     color: brown;
-    font-size: 25px;
 }
 h3{
     background-color: rgb(63, 127, 187);
-    padding: 15px;
+    padding: 20px;
     margin: 0 0;
     color: white;
     font-size: 25px;
@@ -29,5 +31,18 @@ div.links p{
     padding-left: 15px;
 }
 p.bottomLink{
-    padding-bottom: 30%;
+    padding-bottom: 27.36%;
+}
+div.footer p{
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    background-color: rgb(63, 127, 187);
+    margin: 0;
+    padding:10px
+}
+p.words{
+    margin-top: -320px;
+    margin-right: 250px;
+    text-align: center;
 }
