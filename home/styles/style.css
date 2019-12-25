@@ -13,11 +13,10 @@ h3{
     padding: 15px;
     margin: 0 0;
     color: white;
-    text-align: right;
     font-size: 25px;
 }
 div.links{
-    text-align: right;
+    text-align: left;
     margin-top: 10px;
     margin: 0 0
 }
@@ -27,7 +26,7 @@ div.links p{
     margin-left: 1110px;
     margin-right: 0;
     padding-top: 15px;
-    padding-right: 15px;
+    padding-left: 15px;
 }
 p.bottomLink{
     padding-bottom: 30%;
